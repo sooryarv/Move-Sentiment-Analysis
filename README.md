@@ -1,0 +1,1 @@
+A repository containing NLP project related to constructing a binary classification model capable of predicting the sentiment of a review while ensuring a vocabulary size that is less than 1000. The evaluation metric for this project is the Area Under the Curve on the test data and achieved an average AUC of 0.967.
